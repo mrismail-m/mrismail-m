@@ -14,7 +14,6 @@ Currently co building **AutoPenTest**: a multi agent LLM system that automates w
 | [AutoPenTest](https://github.com/mrismail-m) | Multi agent LLM system for automated web penetration testing, chains agents to plan, execute, and report attack flows | Python, LangChain, LLM Agents |
 | [Sortd](https://github.com/mrismail-m) | Mobile first AI content capture PWA, share reels from Instagram/TikTok directly into an organized, searchable note system | React, Supabase, Groq Whisper |
 | [SkinExpert AI](https://github.com/mrismail-m/skin_care_expert_system) | MYCIN style expert system using certainty factors for clinical skin condition diagnosis | Python, Inference Engine |
-| [AI ROI Strategist](https://github.com/mrismail-m/ai-roi-strategist) | ROI forecasting tool for AI automation implementations | React, Vite |
 | [LaneVision ML](https://github.com/mrismail-m/road-lane-detection) | Real time lane detection and segmentation using VGG 16, trained on TuSimple dataset | Python, PyTorch, Computer Vision |
 | [SynapseAI Research Agent](https://github.com/mrismail-m/synapseai_research_agent) | Autonomous AI research agent for fetching and synthesizing data | Python, LLMs, Agents |
 | [Intensional Self Counseling Chatbot](https://github.com/mrismail-m/intensionalselfcounslingchatbot) | AI chatbot for self counseling | Python, LLMs |
@@ -65,8 +64,8 @@ Currently co building **AutoPenTest**: a multi agent LLM system that automates w
 
 * Building **AutoPenTest**: multi agent LLM web penetration testing system (FYP)
 * Building **Sortd**: AI content capture App (startup phase)
-* Looking for a **remote AI/ML internship** starting **June 22** (6 to 8 weeks)
-* Web & App Development Lead at **GDGoC CUI Wah**
+* AI & Full Stack @ Anas Technologies
+* Tech Lead at **GDGoC CUI Wah**
 
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-ismail-b1bb492ba/) mrismaeel@outlook.com
