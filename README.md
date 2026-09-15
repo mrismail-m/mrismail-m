@@ -1,36 +1,35 @@
 # Muhammad Ismail
 
-**AI Developer · Full-Stack Engineer**
+**AI Developer · Full Stack Engineer**
 
-I'm a 3rd-year BS Artificial Intelligence student at COMSATS University Islamabad building production-oriented AI systems — LLM agents, RAG pipelines, and intelligent web applications. Web & App Development Lead at Google Developer Groups on Campus (CUI Wah), organizing technical bootcamps and sessions for 100+ students.
+I'm a 3rd year BS Artificial Intelligence student at COMSATS University Islamabad building production oriented AI systems, LLM agents, RAG pipelines, and intelligent web applications. Web & App Development Lead at Google Developer Groups on Campus (CUI Wah), organizing technical bootcamps and sessions for 100+ students.
 
-Currently co-building **AutoPenTest** — a multi-agent LLM system that automates web penetration testing workflows.
+Currently co building **AutoPenTest**: a multi agent LLM system that automates web penetration testing workflows.
 
----
 
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [AutoPenTest](https://github.com/mrismail-m) | Multi-agent LLM system for automated web penetration testing — chains agents to plan, execute, and report attack flows | Python, LangChain, LLM Agents |
-| [Sortd](https://github.com/mrismail-m) | Mobile-first AI content capture PWA — share reels from Instagram/TikTok directly into an organized, searchable note system | React, Supabase, Groq Whisper |
-| [SkinExpert AI](https://github.com/mrismail-m/skin_care_expert_system) | MYCIN-style expert system using certainty factors for clinical skin condition diagnosis | Python, Inference Engine |
+| [AutoPenTest](https://github.com/mrismail-m) | Multi agent LLM system for automated web penetration testing, chains agents to plan, execute, and report attack flows | Python, LangChain, LLM Agents |
+| [Sortd](https://github.com/mrismail-m) | Mobile first AI content capture PWA, share reels from Instagram/TikTok directly into an organized, searchable note system | React, Supabase, Groq Whisper |
+| [SkinExpert AI](https://github.com/mrismail-m/skin_care_expert_system) | MYCIN style expert system using certainty factors for clinical skin condition diagnosis | Python, Inference Engine |
 | [AI ROI Strategist](https://github.com/mrismail-m/ai-roi-strategist) | ROI forecasting tool for AI automation implementations | React, Vite |
-| [LaneVision ML](https://github.com/mrismail-m/road-lane-detection) | Real-time lane detection and segmentation using VGG-16, trained on TuSimple dataset | Python, PyTorch, Computer Vision |
+| [LaneVision ML](https://github.com/mrismail-m/road-lane-detection) | Real time lane detection and segmentation using VGG 16, trained on TuSimple dataset | Python, PyTorch, Computer Vision |
+| [SynapseAI Research Agent](https://github.com/mrismail-m/synapseai_research_agent) | Autonomous AI research agent for fetching and synthesizing data | Python, LLMs, Agents |
+| [Intensional Self Counseling Chatbot](https://github.com/mrismail-m/intensionalselfcounslingchatbot) | AI chatbot for self counseling | Python, LLMs |
 
----
 
 ## Freelance Work
 
-**PropIQ Intelligence Platform** — Dubai real estate market intelligence tool. Automated scrapers for PropertyFinder.ae, broker leaderboard analytics, and predictive pricing models. Built with Next.js and Supabase.
+**PropIQ Intelligence Platform**: Dubai real estate market intelligence tool. Automated scrapers for PropertyFinder.ae, broker leaderboard analytics, and predictive pricing models. Built with Next.js and Supabase.
 
-**Reliable Listing Bot** — High-performance sync engine between PropertyFinder.ae and WordPress, automating listing workflows for a large Dubai real estate agency.
+**Reliable Listing Bot**: High performance sync engine between PropertyFinder.ae and WordPress, automating listing workflows for a large Dubai real estate agency.
 
-**Agentic Lead Bridge** — Automation connecting PropertyFinder leads to Telegram and WhatsApp for real-time agent-owner communication at high volume.
+**Agentic Lead Bridge**: Automation connecting PropertyFinder leads to Telegram and WhatsApp for real time agent owner communication at high volume.
 
-**GZSecutel B2B Portal** — Complete modernization of a legacy enterprise platform for [GZSecutel](https://gzsecutel.it/). Architecting a premium, high-fidelity interface to replace a 2000s-era system, focusing on scalable B2B e-commerce workflows. *(In Progress)*
+**GZSecutel B2B Portal**: Complete modernization of a legacy enterprise platform for [GZSecutel](https://gzsecutel.it/). Architecting a premium, high fidelity interface to replace a 2000s era system, focusing on scalable B2B e commerce workflows. *(In Progress)*
 
----
 
 ## Tech
 
@@ -61,15 +60,13 @@ Currently co-building **AutoPenTest** — a multi-agent LLM system that automate
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ## Currently
 
-- 🔭 Building **AutoPenTest** — multi-agent LLM web penetration testing system (FYP)
-- 🚀 Building **Sortd** — AI content capture App (startup phase)
-- 🎯 Looking for a **remote AI/ML internship** starting **June 22** (6–8 weeks)
-- 🏫 Web & App Development Lead at **GDGoC CUI Wah**
+* Building **AutoPenTest**: multi agent LLM web penetration testing system (FYP)
+* Building **Sortd**: AI content capture App (startup phase)
+* Looking for a **remote AI/ML internship** starting **June 22** (6 to 8 weeks)
+* Web & App Development Lead at **GDGoC CUI Wah**
 
----
 
-📫 [LinkedIn](https://www.linkedin.com/in/muhammad-ismail-b1bb492ba/) · mrismaeel@outlook.com
+[LinkedIn](https://www.linkedin.com/in/muhammad-ismail-b1bb492ba/) mrismaeel@outlook.com
