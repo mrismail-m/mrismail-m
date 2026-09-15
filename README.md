@@ -16,6 +16,7 @@ Currently co-building **AutoPenTest** — a multi-agent LLM system that automate
 | [Sortd](https://github.com/mrismail-m) | Mobile-first AI content capture PWA — share reels from Instagram/TikTok directly into an organized, searchable note system | React, Supabase, Groq Whisper |
 | [SkinExpert AI](https://github.com/mrismail-m/skin_care_expert_system) | MYCIN-style expert system using certainty factors for clinical skin condition diagnosis | Python, Inference Engine |
 | [AI ROI Strategist](https://github.com/mrismail-m/ai-roi-strategist) | ROI forecasting tool for AI automation implementations | React, Vite |
+| [LaneVision ML](https://github.com/mrismail-m/road-lane-detection) | Real-time lane detection and segmentation using VGG-16, trained on TuSimple dataset | Python, PyTorch, Computer Vision |
 
 ---
 
