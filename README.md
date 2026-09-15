@@ -14,11 +14,7 @@ Currently co-building **AutoPenTest** — a multi-agent LLM system that automate
 |---|---|---|
 | [AutoPenTest](https://github.com/mrismail-m) | Multi-agent LLM system for automated web penetration testing — chains agents to plan, execute, and report attack flows | Python, LangChain, LLM Agents |
 | [Sortd](https://github.com/mrismail-m) | Mobile-first AI content capture PWA — share reels from Instagram/TikTok directly into an organized, searchable note system | React, Supabase, Groq Whisper |
-| [Auto-RAG Architect](https://github.com/mrismail-m/auto-rag-architect) | Automated RAG pipeline design and instantiation tool | Python, LangChain, ChromaDB |
-| [LaneVision ML](https://github.com/mrismail-m/road-lane-detection) | Real-time lane detection and segmentation using VGG-16, trained on TuSimple dataset | Python, PyTorch, Computer Vision |
 | [SkinExpert AI](https://github.com/mrismail-m/skin_care_expert_system) | MYCIN-style expert system using certainty factors for clinical skin condition diagnosis | Python, Inference Engine |
-| [LLM Benchmarker](https://github.com/mrismail-m/llm-performance-benchmarker) | Measures LLM latency, throughput, and cost across providers | Python, OpenAI, Anthropic APIs |
-| [Agentic State Architect](https://github.com/mrismail-m/agentic-state-architect) | Multi-agent framework using state graphs for production workflows | Python, LangGraph |
 | [AI ROI Strategist](https://github.com/mrismail-m/ai-roi-strategist) | ROI forecasting tool for AI automation implementations | React, Vite |
 
 ---
